@@ -1,0 +1,60 @@
+{
+    "wickets":[
+       {
+          "opposition":"England",
+          "wickets":3
+       },
+       {
+          "opposition":"Sri Lanka",
+          "wickets":21
+       },
+       {
+          "opposition":"Bangladesh",
+          "wickets":12
+       },
+       {
+          "opposition":"West Indies",
+          "wickets":20
+       },
+       {
+          "opposition":"Pakistan",
+          "wickets":29
+       },
+       {
+          "opposition":"South Africa",
+          "wickets":17
+       },
+       {
+          "opposition":"Australia",
+          "wickets":20
+       },
+       {
+          "opposition":"Zimbabwe",
+          "wickets":12
+       },
+       {
+          "opposition":"New Zealand",
+          "wickets":13
+       },
+       {
+          "opposition":"U.A.E.",
+          "wickets":3
+       },
+       {
+          "opposition":"Kenya",
+          "wickets":2
+       },
+       {
+          "opposition":"Netherlands",
+          "wickets":0
+       },
+       {
+          "opposition":"Bermuda",
+          "wickets":1
+       },
+       {
+          "opposition":"Ireland",
+          "wickets":1
+       }
+    ]
+ }

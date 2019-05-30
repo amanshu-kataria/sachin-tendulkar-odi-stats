@@ -1,0 +1,64 @@
+{
+    "catches":[
+       {
+          "opposition":"Pakistan",
+          "catches":29
+       },
+       {
+          "opposition":"New Zealand",
+          "catches":7
+       },
+       {
+          "opposition":"Sri Lanka",
+          "catches":30
+       },
+       {
+          "opposition":"England",
+          "catches":15
+       },
+       {
+          "opposition":"Bangladesh",
+          "catches":2
+       },
+       {
+          "opposition":"West Indies",
+          "catches":6
+       },
+       {
+          "opposition":"South Africa",
+          "catches":12
+       },
+       {
+          "opposition":"Australia",
+          "catches":31
+       },
+       {
+          "opposition":"Zimbabwe",
+          "catches":5
+       },
+       {
+          "opposition":"U.A.E.",
+          "catches":1
+       },
+       {
+          "opposition":"Kenya",
+          "catches":2
+       },
+       {
+          "opposition":"Netherlands",
+          "catches":0
+       },
+       {
+          "opposition":"Namibia",
+          "catches":0
+       },
+       {
+          "opposition":"Bermuda",
+          "catches":0
+       },
+       {
+          "opposition":"Ireland",
+          "catches":0
+       }
+    ]
+ }

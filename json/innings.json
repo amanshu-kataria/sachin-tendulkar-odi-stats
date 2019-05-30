@@ -1,0 +1,18 @@
+{
+    "inningsWiseStats":[
+       {
+          "innings":"1st",
+          "matches":221,
+          "centuries":32,
+          "runs":9706,
+          "wins":107
+       },
+       {
+          "innings":"2nd",
+          "matches":242,
+          "centuries":17,
+          "runs":8720,
+          "wins":127
+       }
+    ]
+ }
