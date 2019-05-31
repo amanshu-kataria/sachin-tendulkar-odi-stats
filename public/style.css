@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: #041725;
+    position: fixed;
+    z-index: 9999;
+    color: white;
+    line-height: 55px;
+}
+
+.headerContent{
+    float: left;
+    margin-left: 2%;
+    font-size: 20px;
+}
+
+.navBar{
+    float: right;
+    display: flex;
+}
+
+.navItem{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.activeNav{
+    border-bottom: 2px solid white;
+}
+
+.navBar:last-child{
+    margin-right: 20px;
+}
+
+.navItem:hover{
+    font-size: 130%;
+    cursor: pointer;
+    margin: 0;
+}
+
+.stats{
+    position: absolute;
+    margin-top: 80px;
+}
+
+.runStats{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.xy-plot-runs:nth-child(odd){
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.xy-plot-runs{
+    margin-top: 50px;
+}
