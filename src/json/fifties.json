@@ -2,195 +2,195 @@
     "opponentWiseFifties":[
        {
           "opposition":"Sri Lanka",
-          "matches":17
+          "fifties":17
        },
        {
           "opposition":"Pakistan",
-          "matches":16
+          "fifties":16
        },
        {
           "opposition":"South Africa",
-          "matches":8
+          "fifties":8
        },
        {
           "opposition":"Australia",
-          "matches":15
+          "fifties":15
        },
        {
           "opposition":"West Indies",
-          "matches":11
+          "fifties":11
        },
        {
           "opposition":"Zimbabwe",
-          "matches":5
+          "fifties":5
        },
        {
           "opposition":"New Zealand",
-          "matches":8
+          "fifties":8
        },
        {
           "opposition":"England",
-          "matches":10
+          "fifties":10
        },
        {
           "opposition":"U.A.E.",
-          "matches":1
+          "fifties":1
        },
        {
           "opposition":"Bangladesh",
-          "matches":2
+          "fifties":2
        },
        {
           "opposition":"Netherlands",
-          "matches":1
+          "fifties":1
        },
        {
           "opposition":"Kenya",
-          "matches":1
+          "fifties":1
        },
        {
           "opposition":"Bermuda",
-          "matches":1
+          "fifties":1
        }
     ],
     "yearWiseFifties":[
        {
           "year":"1990",
-          "matches":1
+          "fifties":1
        },
        {
           "year":"1991",
-          "matches":4
+          "fifties":4
        },
        {
           "year":"1992",
-          "matches":6
+          "fifties":6
        },
        {
           "year":"1993",
-          "matches":1
+          "fifties":1
        },
        {
           "year":"1994",
-          "matches":9
+          "fifties":9
        },
        {
           "year":"1995",
-          "matches":1
+          "fifties":1
        },
        {
           "year":"1996",
-          "matches":9
+          "fifties":9
        },
        {
           "year":"1997",
-          "matches":5
+          "fifties":5
        },
        {
           "year":"1998",
-          "matches":7
+          "fifties":7
        },
        {
           "year":"1999",
-          "matches":1
+          "fifties":1
        },
        {
           "year":"2000",
-          "matches":6
+          "fifties":6
        },
        {
           "year":"2001",
-          "matches":3
+          "fifties":3
        },
        {
           "year":"2002",
-          "matches":3
+          "fifties":3
        },
        {
           "year":"2003",
-          "matches":8
+          "fifties":8
        },
        {
           "year":"2004",
-          "matches":5
+          "fifties":5
        },
        {
           "year":"2005",
-          "matches":2
+          "fifties":2
        },
        {
           "year":"2006",
-          "matches":3
+          "fifties":3
        },
        {
           "year":"2007",
-          "matches":13
+          "fifties":13
        },
        {
           "year":"2008",
-          "matches":3
+          "fifties":3
        },
        {
           "year":"2009",
-          "matches":3
+          "fifties":3
        },
        {
           "year":"2011",
-          "matches":2
+          "fifties":2
        },
        {
           "year":"2012",
-          "matches":1
+          "fifties":1
        }
     ],
     "monthWiseFifties":[
        {
           "month":"January",
-          "halfCenturies":14
+          "fifties":14
        },
        {
           "month":"February",
-          "halfCenturies":9
+          "fifties":9
        },
        {
           "month":"March",
-          "halfCenturies":16
+          "fifties":16
        },
        {
           "month":"April",
-          "halfCenturies":6
+          "fifties":6
        },
        {
           "month":"May",
-          "halfCenturies":0
+          "fifties":0
        },
        {
           "month":"June",
-          "halfCenturies":8
+          "fifties":8
        },
        {
           "month":"July",
-          "halfCenturies":3
+          "fifties":3
        },
        {
           "month":"August",
-          "halfCenturies":3
+          "fifties":3
        },
        {
           "month":"September",
-          "halfCenturies":7
+          "fifties":7
        },
        {
           "month":"October",
-          "halfCenturies":9
+          "fifties":9
        },
        {
           "month":"November",
-          "halfCenturies":13
+          "fifties":13
        },
        {
           "month":"December",
-          "halfCenturies":8
+          "fifties":8
        }
     ]
  }
