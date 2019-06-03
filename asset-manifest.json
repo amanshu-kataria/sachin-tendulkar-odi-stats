@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/srt-odi-stats/static/js/main.7127ad83.chunk.js",
-    "main.js.map": "/srt-odi-stats/static/js/main.7127ad83.chunk.js.map",
-    "runtime~main.js": "/srt-odi-stats/static/js/runtime~main.bac57554.js",
-    "runtime~main.js.map": "/srt-odi-stats/static/js/runtime~main.bac57554.js.map",
-    "static/js/2.8580c92a.chunk.js": "/srt-odi-stats/static/js/2.8580c92a.chunk.js",
-    "static/js/2.8580c92a.chunk.js.map": "/srt-odi-stats/static/js/2.8580c92a.chunk.js.map",
-    "index.html": "/srt-odi-stats/index.html",
-    "precache-manifest.8d639015354b8007fc0a5c4d17193e77.js": "/srt-odi-stats/precache-manifest.8d639015354b8007fc0a5c4d17193e77.js",
-    "service-worker.js": "/srt-odi-stats/service-worker.js"
+    "main.js": "/sachin-tendulkar-odi-stats/static/js/main.81ab631c.chunk.js",
+    "main.js.map": "/sachin-tendulkar-odi-stats/static/js/main.81ab631c.chunk.js.map",
+    "runtime~main.js": "/sachin-tendulkar-odi-stats/static/js/runtime~main.7c987d88.js",
+    "runtime~main.js.map": "/sachin-tendulkar-odi-stats/static/js/runtime~main.7c987d88.js.map",
+    "static/js/2.8580c92a.chunk.js": "/sachin-tendulkar-odi-stats/static/js/2.8580c92a.chunk.js",
+    "static/js/2.8580c92a.chunk.js.map": "/sachin-tendulkar-odi-stats/static/js/2.8580c92a.chunk.js.map",
+    "index.html": "/sachin-tendulkar-odi-stats/index.html",
+    "precache-manifest.3781d42171d5f7acadf05867803b496a.js": "/sachin-tendulkar-odi-stats/precache-manifest.3781d42171d5f7acadf05867803b496a.js",
+    "service-worker.js": "/sachin-tendulkar-odi-stats/service-worker.js"
   }
 }
