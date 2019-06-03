@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/srt-odi-stats/static/js/main.7127ad83.chunk.js",
+    "main.js.map": "/srt-odi-stats/static/js/main.7127ad83.chunk.js.map",
+    "runtime~main.js": "/srt-odi-stats/static/js/runtime~main.bac57554.js",
+    "runtime~main.js.map": "/srt-odi-stats/static/js/runtime~main.bac57554.js.map",
+    "static/js/2.8580c92a.chunk.js": "/srt-odi-stats/static/js/2.8580c92a.chunk.js",
+    "static/js/2.8580c92a.chunk.js.map": "/srt-odi-stats/static/js/2.8580c92a.chunk.js.map",
+    "index.html": "/srt-odi-stats/index.html",
+    "precache-manifest.8d639015354b8007fc0a5c4d17193e77.js": "/srt-odi-stats/precache-manifest.8d639015354b8007fc0a5c4d17193e77.js",
+    "service-worker.js": "/srt-odi-stats/service-worker.js"
+  }
+}
