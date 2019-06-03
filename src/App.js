@@ -51,8 +51,8 @@ class App extends React.PureComponent {
             })}
           </div>
         </div>
-        <div className="stats">{this.state.activeNav === 0 && <Runs />}</div>
         <div className="stats">
+          {this.state.activeNav === 0 && <Runs />}
           {this.state.activeNav === 1 && <Centuries />}
           {this.state.activeNav === 2 && <Fifties />}
           {this.state.activeNav === 3 && Bowling()}
